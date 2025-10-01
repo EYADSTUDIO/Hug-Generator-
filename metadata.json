@@ -1,0 +1,5 @@
+{
+  "name": "Photo Hug Generator",
+  "description": "An application that uses AI to merge two photos, making it look like the subject of the first photo is hugging the subject of the second, set against a beautiful, vibrant background.",
+  "requestFramePermissions": []
+}
